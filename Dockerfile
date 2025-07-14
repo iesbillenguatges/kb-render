@@ -1,0 +1,1 @@
+FROM kanboard/kanboard:latest

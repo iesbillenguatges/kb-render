@@ -1,4 +1,4 @@
-# 🗂️ Kanboard amb Docker
+# 🗂️ Kanboard-Docker desplegat en Render.com
 
 Aquest projecte et permet desplegar [Kanboard](https://kanboard.org/) amb Docker, ja siga localment o a Render.
 
